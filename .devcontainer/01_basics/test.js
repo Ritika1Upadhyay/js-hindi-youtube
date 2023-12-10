@@ -1,1 +1,1 @@
-console.log("Ritika")
+console.log("Ritika");
